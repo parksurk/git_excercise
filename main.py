@@ -1,7 +1,7 @@
 def check_available():
     return 'Hello Git!!!'
 
-def split_odd(nums=[1, 2, 3, 4]):
+def split_odd(nums= [1, 2, 3, 4]):
     odds = []
     evens = []
     for i in nums:
